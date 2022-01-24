@@ -210,7 +210,7 @@
         "type": "function",
         "z": "cb05ba4.8a1a748",
         "name": "parameters",
-        "func": "msg.payload = {\n    project_id: 1,\n    tracker_id: 1,\n    status_id: 1,\n    proirity_id:1,\n    subject: \"テスト\",\n    description: \"テストです。\"\n};\nreturn msg;",
+        "func": "msg.payload = {\n    project_id: 1,\n    tracker_id: 1,\n    status_id: 1,\n    priority_id:1,\n    subject: \"テスト\",\n    description: \"テストです。\"\n};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "x": 270,
